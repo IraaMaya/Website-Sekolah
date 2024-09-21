@@ -4,8 +4,7 @@ LARASCHOOL adalah aplikasi website sekolah dibuat dengan framework laravel 8.
 </b></p>
 
 ## Instalasi
-- download zip <a href="https://github.com/rahmathidayat9/laraschool/archive/master.zip">disini</a> 
-- atau clone : git clone https://github.com/rahmathidayat9/laraschool
+- clone : git clone [ https://github.com/IraaMaya/Website-Sekolah.git ]
 
 ## Setup
 - buka direktori project di terminal anda.
@@ -19,9 +18,6 @@ Lalu ketik command dibawah ini
 - php artisan migrate (migrasi database)
 - php artisan db:seed 
 
-## Login
-Email : rahmat@example.com
-Password : password
 
 ## Fitur
 # Front / Depan
@@ -38,5 +34,5 @@ Password : password
 - Manage Pengumuman (CRUD)
 - Manage Kategori Artikel (CRUD)
 
-## Author
-- Rahmat Hidayatullah
+## Team
+- Ira Maya Sutra Handayani
